@@ -1,16 +1,14 @@
-## ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
+## ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˖𓍢ִ໋🌷͙֒✧˚
+
+<h2 align="center">⋆ Oie, aqui é a Keth! ⋆ </h2>
 
 - 🔭 Acadêmica de ADS/Engenharia de Software.
 - 🌱 Estudando C#, Unity e Redes.
   
-  
-<h2 align="center">⋆Oie, aqui é a Keth!⋆ </h2>
+
+<p align="center">seja bem-vindo ao meu github :)</p>
 
 ###
-
-<div align="center">
-  <img height="233" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af49d886-a571-4401-94db-12e7e48b7dd8/dew09ll-97a15e2e-a721-417d-9e74-1e01a949de4d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmNDlkODg2LWE1NzEtNDQwMS05NGRiLTEyZTdlNDhiN2RkOFwvZGV3MDlsbC05N2ExNWUyZS1hNzIxLTQxN2QtOWU3NC0xZTAxYTk0OWRlNGQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tvx_BO4hkD4sE2vg_vtRwhVFChj4Pr5Gf-uTDV2c2n0"  />
-</div>
 
 ###
 
@@ -34,19 +32,16 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  height="30" alt="html logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  height="30" alt="html logo"/>
-          
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  height="30" alt="js logo"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  height="30" alt="css logo"/>         
 </div>
 
-###
+## ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˖𓍢ִ໋🌷͙֒✧˚
+
 
 <div align="center">
 </div>
 
 ###
-
-<p align="center">seja bem-vindo ao meu github :)</p>
 
 ###
