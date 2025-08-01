@@ -48,7 +48,7 @@
 ### 🐍 minha cobrinha fofa de contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/keth-jnsk/keth-jnsk/output/github-snake-pink.svg" />
+  <img src="https://raw.githubusercontent.com/keth-jnsk/keth-jnsk/output/dist/github-snake-pink.svg" alt="cobrinha rosa pastel" />
 </div>
 
 ---
