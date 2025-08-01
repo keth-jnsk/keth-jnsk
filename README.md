@@ -1,4 +1,4 @@
-## ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
+## ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
 
 <h2 align="center">⋆ oie, eu sou a Keth! ⋆ </h2>
 
@@ -8,10 +8,10 @@
 
 ### 🌷 sobre mim
 
-- 🎀 foco atual: front-end, UX/UI e desenvolvimento com Unity
-- ☕ estudo ao som de playlists calmas e muito energético k
-- 📍 Brasil • 23y • girly dev
-- 🧠 aprendendo sempre e codando com criatividade 
+- 🎀 foco atual: front-end, UX/UI e desenvolvimento com Unity  
+- ☕ estudo ao som de playlists calmas e muito energético k  
+- 📍 Brasil • 23y • girly dev  
+- 🧠 aprendendo sempre e codando com criatividade  
 
 ---
 
@@ -19,16 +19,16 @@
 
 ### 🛠️ tecnologias & interesses
 <div align="center">
-   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  height="30" alt="html logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  height="30" alt="js logo"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  height="30" alt="css logo"/>
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="30" alt="unity logo"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  height="30" alt="html logo"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  height="30" alt="js logo"/>  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  height="30" alt="css logo"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="30" alt="unity logo"/> 
 </div>
 
-
 ---
+
 ### 💌 onde me encontrar
 <div align="center">
   <a href="https://www.instagram.com/kethelynjanuskevicius?igsh=ZjB1M3JmdmZzcXZm&utm_source=qr" target="_blank">
@@ -45,7 +45,14 @@
   </a>
 </div>
 
-<div align="center">
-  ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˖𓍢ִ໋🌷͙֒✧˚𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˖𓍢ִ໋🌷͙֒✧˚🎀༘⋆˖𓍢ִ໋🌷͙֒✧˚𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
-</div> 
+---
 
+### 🐍 minha cobrinha fofa de contribuições
+
+<div align="center">
+  <img src="https://github.com/keth-jnsk/keth-jnsk/blob/output/github-snake-pink.svg" />
+</div>
+
+---
+
+## ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
