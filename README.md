@@ -35,7 +35,7 @@
   <a href="https://discord.com/users/1081742268823765012" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:kethelyn_jan@outlook.com" target="_blank">
+  <a href="mailto:kethelynjanuskevicius@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/kethelyn-januskevicius-0496ab27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
@@ -44,5 +44,11 @@
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keth-jnsk/keth-jnsk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keth-jnsk/keth-jnsk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/keth-jnsk/keth-jnsk/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
 ## ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
