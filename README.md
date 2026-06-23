@@ -8,9 +8,9 @@
 
 ### 🌷 sobre mim
 
-- 🎀 foco atual: front-end, UX/UI e desenvolvimento com Unity  
+- 🎀 foco atual: front-end e design UX/UI 
 - ☕ estudo ao som de playlists calmas e muito energético k  
-- 📍 Brasil • 23y • girly dev  
+- 📍 Brasil • 24y • girly dev  
 - 🧠 aprendendo sempre e codando com criatividade  
 
 ---
